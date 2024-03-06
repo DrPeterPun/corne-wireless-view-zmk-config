@@ -16,19 +16,19 @@
                         key-positions = <17 18>;
                         timeout-ms = <20>;
                         layers = <-1>
-                }
+                };
                 combo_lSHFT {
                         bindings = <&sk LSHFT>;
                         key-positions = <16 19>;
                         timeout-ms = <20>;
                         layers = <-1>
-                }
+                };
                 combo_ALT {
                         bindings = <&sk LALT>;
                         key-positions = <15 20>;
                         timeout-ms = <20>;
                         layers = <-1>
-                }
+                };
         };
         keymap {
                 compatible = "zmk,keymap";
