@@ -14,19 +14,19 @@
                 combo_CTRL {
                         bindings = <&sk LCTRL>;
                         key-positions = <17 18>;
-                        timeout-ms = <20>;
+                        timeout-ms = <70>;
                         //layers = <-1>;
                 };
                 combo_lSHFT {
                         bindings = <&sk LSHFT>;
                         key-positions = <16 19>;
-                        timeout-ms = <20>;
+                        timeout-ms = <70>;
                         //layers = <-1>;
                 };
                 combo_ALT {
                         bindings = <&sk LALT>;
                         key-positions = <15 20>;
-                        timeout-ms = <20>;
+                        timeout-ms = <70>;
                         //layers = <-1>;
                 };
         };
